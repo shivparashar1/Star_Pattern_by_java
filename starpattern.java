@@ -148,7 +148,7 @@
 
 
 
-
+   // To Print Multi Star Pattern in a single line
 public class starpattern
 {
     public static void main(String[] args) {
